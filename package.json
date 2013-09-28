@@ -1,0 +1,28 @@
+{
+  "name": "download-progress",
+  "version": "0.0.0",
+  "main": "lib/download-progress.js",
+  "description": "Download files while displaying progress bar",
+  "homepage": "https://github.com/AYapejian/download-progress",
+  "bugs": "https://github.com/AYapejian/download-progress/issues",
+  "author": {
+    "name": "Ara Yapejian",
+    "email": "randombitsoftech@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AYapejian/download-progress"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "progress": "~1.1.0",
+    "async": "~0.2.9"
+  }
+}
