@@ -2,7 +2,7 @@
   "name": "download-progress",
   "version": "0.0.0",
   "main": "lib/download-progress.js",
-  "description": "Download files while displaying progress bar",
+  "description": "Download files while displaying progress bar on the command line",
   "homepage": "https://github.com/AYapejian/download-progress",
   "bugs": "https://github.com/AYapejian/download-progress/issues",
   "author": {
